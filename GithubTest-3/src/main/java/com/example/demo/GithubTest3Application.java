@@ -8,5 +8,7 @@ public class GithubTest3Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GithubTest3Application.class, args);
+		
+		
 	}
 }
